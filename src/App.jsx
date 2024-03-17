@@ -1,7 +1,7 @@
 import "./App.css";
 
 const App = () => {
-  return <h1>hello</h1>;
+  return <button className="text-3xl font-bold underline">Save changes</button>;
 };
 
 export default App;

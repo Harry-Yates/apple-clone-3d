@@ -218,7 +218,6 @@ const VideoCarousel = () => {
             </span>
           ))}
         </div>
-
         <button className="control-btn">
           <img
             src={isLastVideo ? replayImg : !isPlaying ? playImg : pauseImg}
